@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ranga-godhandaraman
-- 👀 I’m interested in Data Science Engineering, ML, Statistics and related fields.
-- 🌱 I’m currently learning Python, SQL, Statistics, EDA, SLR, SLC and Agile Scrum Master.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science Engineering, ML, Statistics, and related fields.
+- 🌱 I’m currently learning DL, NLP, Time Series, and ARIMA.
 - 📫 How to reach me rangabashyam22@gmail.com
 
 <!---
