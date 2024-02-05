@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranga-godhandaraman
-- 👀 I’m interested in Data Science Engineering, ML, Statistics, and related fields.
-- 🌱 I’m currently learning DL, NLP, Time Series, ARIMA, and Azure 900.
+- 👀 I’m an AI Engineer
+- 🌱 I’m currently exploring NVIDIA Triton Inference Server, TensorRT-LLM, NLP, Llama-2 models, etc.,
 - 📫 How to reach me rangabashyam22@gmail.com
 <!---
 ranga-godhandaraman/ranga-godhandaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
